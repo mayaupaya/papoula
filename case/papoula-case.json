@@ -1,0 +1,130 @@
+{
+ "id": "papoula",
+ "dir": "papoula",
+ "tier": 1,
+ "cats": [
+  "Product Design",
+  "Identity",
+  "Websites",
+  "Editorial"
+ ],
+ "title": "Papoula",
+ "tag": "Product design · Brand",
+ "desc": "A 0-to-1 practice app and brand system for a birth-care professional",
+ "cover": "cover",
+ "year": "2026",
+ "role": "Product designer and creative director. Discovery, UX, interface, brand system and website. Development was AI-assisted, directed by me.",
+ "team": "",
+ "scope": "Mobile app (PWA), brand identity, design system, sales website, course materials",
+ "outcome": "Live. The founder runs her whole practice in it. More birth professionals join after a month of testing.",
+ "lead": "Roberta is an obstetric nurse, doula and gestational artist in Brasília. I built her brand, then designed the app she runs her practice on: client files, exams by due date, labor records, payments and postpartum care.",
+ "sections": [
+  {
+   "h": "The problem",
+   "text": "Her practice lived in five places that didn't talk to each other. Nothing linked the due date to the exams, the payments or the messages.",
+   "items": [
+    "problem"
+   ]
+  },
+  {
+   "h": "Discovery",
+   "text": "Real client conversations, a benchmark of practice apps and sessions with her on how a week actually runs. One user, phone only, often with one free hand, between shifts and births.",
+   "items": []
+  },
+  {
+   "h": "Journey",
+   "text": "Four phases. In each one the app calculates and reminds; she decides and sends.",
+   "items": [
+    "journey"
+   ]
+  },
+  {
+   "h": "Structure",
+   "text": "Five destinations in a bottom bar. Everything about one client lives in one file.",
+   "items": [
+    "ia"
+   ]
+  },
+  {
+   "h": "End-to-end flow",
+   "text": "From a new client to her first reminder. One flow replaces the spreadsheet, the contract file, the payment notes and the exam calendar.",
+   "status": "Fictional data",
+   "items": [
+    "flow"
+   ]
+  },
+  {
+   "h": "Interaction pattern",
+   "text": "Repeated across the app: the system prepares, the person acts. Nothing is sent without her.",
+   "items": [
+    "pattern"
+   ]
+  },
+  {
+   "h": "Interface",
+   "text": "Brand red only for actions and status. Large numbers, 44 px touch targets, one primary action per screen.",
+   "status": "Fictional data",
+   "items": [
+    "ui-daily",
+    "ui-labor",
+    "ui-practice",
+    "ui-care"
+   ]
+  },
+  {
+   "h": "Validation",
+   "text": "She ran her real client list from the first version. What broke became a change, usually shipped the same day.",
+   "items": [
+    "validation"
+   ]
+  },
+  {
+   "h": "Architecture and privacy",
+   "text": "Health data, handled like health data, at zero hosting cost. The app records and reminds; clinical decisions stay with the nurse.",
+   "items": [
+    "arch"
+   ]
+  },
+  {
+   "h": "Brand system",
+   "text": "A watercolor poppy that bleeds off the edge, four colors in a fixed ratio and two typefaces. The same tokens run the app, the site and the course.",
+   "items": [
+    "brand-logo",
+    "brand-system"
+   ]
+  },
+  {
+   "h": "Website",
+   "text": "The sales page opens with the objection students voice most, “I can't draw”, and answers it section by section. Scroll inside the frame.",
+   "link": {
+    "label": "escolapapoula.com",
+    "url": "https://escolapapoula.com"
+   },
+   "items": [
+    {
+     "site": "site-full",
+     "url": "escolapapoula.com"
+    }
+   ]
+  },
+  {
+   "h": "Course materials",
+   "text": "Class decks, a conference talk and the brand manual that keeps every new piece on system.",
+   "items": [
+    "aula-capa",
+    [
+     "aula-metodo",
+     "aula-raiz"
+    ],
+    [
+     "sia-capa",
+     "sia-cuidado"
+    ],
+    [
+     "manual-cover",
+     "manual-type"
+    ]
+   ]
+  }
+ ]
+}
