@@ -1,0 +1,11 @@
+.DS_Store
+*.zip
+.env
+.env.*
+# dados de clientes: nunca versionar
+chats/
+*.json.bak
+backup*.json
+WhatsApp*
+*.xlsx
+*.csv
